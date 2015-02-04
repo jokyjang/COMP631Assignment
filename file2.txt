@@ -1,0 +1,4 @@
+This is the first message. The text can be arbitrary (and non-ascii).
+-END OF MESSAGE-
+This is the second message. Period.
+-END OF MESSAGE-
